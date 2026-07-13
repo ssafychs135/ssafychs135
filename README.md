@@ -58,7 +58,7 @@
 | **[bluefox](https://github.com/ssafychs135/bluefox)** | GitHub PR 기반 AI 성능 최적화 파트너 (APM·부하테스트 자동화) | `TypeScript` `Spring Boot` `GitHub App` |
 | **[jupasu](https://github.com/ssafychs135/jupasu)** | Text-to-SQL 에이전트로 취향을 질의하는 주류 추천 서비스 | `Spring Boot` `Text-to-SQL` `JavaScript` |
 
-<sub>그 외 · [nemotron-trimode-benchmark](https://github.com/ssafychs135/nemotron-trimode-benchmark) (GPU 추론 처리량 벤치마크) · [jcgi-quiz](https://github.com/ssafychs135/jcgi-quiz) (정보처리기사 기출 문제풀이 사이트)</sub>
+<sub>그 외 · [nemotron-trimode-benchmark](https://github.com/ssafychs135/nemotron-trimode-benchmark) (GPU 추론 처리량 벤치마크)</sub>
 
 ---
 
