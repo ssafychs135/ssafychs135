@@ -11,14 +11,12 @@
 
 ---
 
-### 🧭 저는 이런 것을 만듭니다
+### 🧭 관심 분야
 
-- **로컬 LLM 자동화** — 맥에서 MLX 모델을 직접 서빙하고, n8n·Docker와 엮어 **비용 0원**으로 매일 도는 채용 자동화를 만듭니다.
-- **RAG 시스템** — LangGraph·ChromaDB·pgvector로 문서를 검색·응답하는 챗봇을 설계합니다. 임베딩 모델 교체 → 재인덱싱까지 파이프라인으로 관리합니다.
-- **브라우저 내 AI 추론** — ONNX Runtime Web·MediaPipe로 서버 없이 실시간 얼굴 분석을 돌립니다.
-- **숫자로 검증** — GPU에서 추론 처리량을 직접 벤치마킹하며 "느낌"이 아닌 데이터로 판단합니다.
-
-> API를 뜯어보고 다중 백엔드를 자동 탐색하는 걸 좋아합니다. 동작하지 않으면 로그를 파고들어 근본 원인을 찾을 때까지 멈추지 않습니다.
+- **로컬 LLM 자동화** — 맥에서 MLX 모델 서빙 + n8n·Docker로 비용 0원 채용 자동화
+- **RAG 시스템** — LangGraph·ChromaDB·pgvector 기반 검색·응답 챗봇
+- **브라우저 내 AI 추론** — ONNX Runtime Web·MediaPipe로 서버 없이 실시간 얼굴 분석
+- **모델 성능 검증** — GPU 추론 처리량 벤치마킹으로 데이터 기반 판단
 
 ---
 
@@ -62,8 +60,6 @@
 | **[retinafit](https://github.com/ssafychs135/retinafit)** | 안경점용 실시간 AR 안경 피팅 — 브라우저 내 얼굴 분석 + Flutter 네이티브 AR<br>🙋 **내 기여**: 브라우저 내 AI 추론(ONNX·MediaPipe) | `Svelte` `ONNX Runtime` `MediaPipe` `Gemini` |
 | **[bluefox](https://github.com/ssafychs135/bluefox)** | GitHub PR 연동 AI 성능 최적화 파트너 — 부하테스트·시나리오 관리·SSE 실시간 알림<br>🙋 **내 기여**: 프론트엔드(FE) | `React` `TypeScript` `SSE` |
 | **[jupasu](https://github.com/ssafychs135/jupasu)** | 와인 소믈리에 AI 챗봇 — 음식 궁합·취향 기반 추천(pgvector) + 메뉴판 OCR 스캔<br>🙋 **내 기여**: AI 파트 (소믈리에 에이전트·추천·OCR) | `LangGraph` `pgvector` `PaddleOCR` `FastAPI` |
-
-<sub>그 외 · [nemotron-trimode-benchmark](https://github.com/ssafychs135/nemotron-trimode-benchmark) — Nemotron Diffusion 3B의 3가지 추론 모드(AR·diffusion·self-speculation) 처리량 벤치마크 (RTX 5060 Ti)</sub>
 
 ---
 
