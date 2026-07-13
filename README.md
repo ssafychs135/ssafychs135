@@ -11,14 +11,6 @@
 
 ---
 
-### 🧭 관심 분야
-
-- **LLM 에이전트 · RAG** — LangGraph 에이전트와 ChromaDB·pgvector 검색으로 문서·데이터를 질의응답
-- **브라우저 내 AI 추론** — ONNX Runtime Web·MediaPipe로 서버 없이 실시간 얼굴 분석
-- **모델 성능 검증** — GPU 추론 처리량 벤치마킹으로 데이터 기반 판단
-
----
-
 ### 🛠️ 기술 스택
 
 **Languages**
