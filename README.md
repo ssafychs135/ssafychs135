@@ -1,6 +1,6 @@
 <h1 align="center">안녕하세요, 최형선입니다 👋</h1>
 <p align="center">
-  <b>로컬 LLM · RAG · AI 자동화</b>로 실제로 굴러가는 것을 만드는 <b>AI/LLM 엔지니어</b>
+  <b>LLM 에이전트 · RAG · 로컬 LLM 서빙</b>으로 실제로 굴러가는 것을 만드는 <b>AI/LLM 엔지니어</b>
 </p>
 
 <p align="center">
@@ -13,8 +13,8 @@
 
 ### 🧭 관심 분야
 
-- **로컬 LLM 자동화** — 맥에서 MLX 모델 서빙 + n8n·Docker로 비용 0원 채용 자동화
-- **RAG 시스템** — LangGraph·ChromaDB·pgvector 기반 검색·응답 챗봇
+- **LLM 에이전트 · RAG** — LangGraph 에이전트와 ChromaDB·pgvector 검색으로 문서·데이터를 질의응답
+- **로컬 LLM 서빙 · 자동화** — 맥에서 MLX 모델 서빙 + n8n·Docker로 비용 0원 파이프라인
 - **브라우저 내 AI 추론** — ONNX Runtime Web·MediaPipe로 서버 없이 실시간 얼굴 분석
 - **모델 성능 검증** — GPU 추론 처리량 벤치마킹으로 데이터 기반 판단
 
