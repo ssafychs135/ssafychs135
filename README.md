@@ -13,7 +13,7 @@
 
 ### 🧭 저는 이런 것을 만듭니다
 
-- **로컬 LLM 인프라** — 맥에서 MLX 모델을 직접 서빙하고, 모델 필드로 백엔드를 라우팅하는 **셀프호스팅 LLM 게이트웨이**를 운영합니다. n8n·Docker와 엮어 **비용 0원**으로 매일 도는 자동화를 만듭니다.
+- **로컬 LLM 자동화** — 맥에서 MLX 모델을 직접 서빙하고, n8n·Docker와 엮어 **비용 0원**으로 매일 도는 채용 자동화를 만듭니다.
 - **RAG 시스템** — LangGraph·ChromaDB·pgvector로 문서를 검색·응답하는 챗봇을 설계합니다. 임베딩 모델 교체 → 재인덱싱까지 파이프라인으로 관리합니다.
 - **브라우저 내 AI 추론** — ONNX Runtime Web·MediaPipe로 서버 없이 실시간 얼굴 분석을 돌립니다.
 - **숫자로 검증** — GPU에서 추론 처리량을 직접 벤치마킹하며 "느낌"이 아닌 데이터로 판단합니다.
@@ -27,7 +27,6 @@
 **Languages**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
@@ -46,7 +45,7 @@
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
@@ -58,11 +57,11 @@
 
 | 프로젝트 | 설명 | 핵심 기술 |
 |---|---|---|
-| **[n8n-job-automation](https://github.com/ssafychs135/n8n-job-automation)** | 로컬 LLM(LM Studio·MLX) + n8n·Docker로 채용공고를 매일 자동 수집·요약. **비용 0원, 실제 매일 구동** | `LM Studio` `n8n` `Docker` `Python` |
-| **[team9](https://github.com/ssafychs135/team9)** | iPhone 51종을 다루는 RAG 챗봇 — **셀프호스팅 LLM 게이트웨이**로 챗·임베딩 모델을 라우팅 | `Django` `LangGraph` `ChromaDB` `Gemma` |
-| **[retinafit](https://github.com/ssafychs135/retinafit)** | 안경점용 실시간 AR 안경 피팅 — **브라우저 내 ONNX·MediaPipe 얼굴 분석** + Flutter 네이티브 AR | `Svelte` `ONNX Runtime` `MediaPipe` `Gemini` |
-| **[bluefox](https://github.com/ssafychs135/bluefox)** | GitHub PR 연동 AI 성능 최적화 파트너 — 부하테스트·시나리오 관리·SSE 실시간 알림 | `Spring Boot` `GitHub App` `SSE` |
-| **[jupasu](https://github.com/ssafychs135/jupasu)** | 와인 소믈리에 AI 챗봇 — 음식 궁합·취향 기반 추천(pgvector) + 메뉴판 OCR 스캔 | `LangGraph` `pgvector` `PaddleOCR` `Spring Boot` |
+| **[n8n-job-automation](https://github.com/ssafychs135/n8n-job-automation)** | 로컬 LLM(LM Studio·MLX) + n8n·Docker로 채용공고를 매일 자동 수집·요약. **비용 0원, 실제 매일 구동**<br>🙋 **내 기여**: 개인 프로젝트 · 전체 설계·구현 | `LM Studio` `n8n` `Docker` `Python` |
+| **[team9](https://github.com/ssafychs135/team9)** | iPhone 51종을 다루는 RAG 챗봇 — 문서 임베딩·검색·응답<br>🙋 **내 기여**: RAG·LLM 연동 파트 | `Django` `LangGraph` `ChromaDB` `Gemma` |
+| **[retinafit](https://github.com/ssafychs135/retinafit)** | 안경점용 실시간 AR 안경 피팅 — 브라우저 내 얼굴 분석 + Flutter 네이티브 AR<br>🙋 **내 기여**: 브라우저 내 AI 추론(ONNX·MediaPipe) | `Svelte` `ONNX Runtime` `MediaPipe` `Gemini` |
+| **[bluefox](https://github.com/ssafychs135/bluefox)** | GitHub PR 연동 AI 성능 최적화 파트너 — 부하테스트·시나리오 관리·SSE 실시간 알림<br>🙋 **내 기여**: 프론트엔드(FE) | `React` `TypeScript` `SSE` |
+| **[jupasu](https://github.com/ssafychs135/jupasu)** | 와인 소믈리에 AI 챗봇 — 음식 궁합·취향 기반 추천(pgvector) + 메뉴판 OCR 스캔<br>🙋 **내 기여**: AI 파트 (소믈리에 에이전트·추천·OCR) | `LangGraph` `pgvector` `PaddleOCR` `FastAPI` |
 
 <sub>그 외 · [nemotron-trimode-benchmark](https://github.com/ssafychs135/nemotron-trimode-benchmark) — Nemotron Diffusion 3B의 3가지 추론 모드(AR·diffusion·self-speculation) 처리량 벤치마크 (RTX 5060 Ti)</sub>
 
