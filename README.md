@@ -1,7 +1,4 @@
-<h1 align="center">안녕하세요, 최형선입니다 👋</h1>
-<p align="center">
-  <b>LLM 에이전트와 RAG</b>로 AI 제품을 <b>설계·구현</b>하는 엔지니어
-</p>
+<h2 align="center"><b>LLM 에이전트와 RAG</b>로 AI 제품을 설계·구현하는 엔지니어, <b>최형선</b>입니다 👋</h2>
 
 <p align="center">
   <a href="mailto:ssafychs135@gmail.com">
