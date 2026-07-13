@@ -62,7 +62,7 @@
 | **[team9](https://github.com/ssafychs135/team9)** | iPhone 51종을 다루는 RAG 챗봇 — **셀프호스팅 LLM 게이트웨이**로 챗·임베딩 모델을 라우팅 | `Django` `LangGraph` `ChromaDB` `Gemma` |
 | **[retinafit](https://github.com/ssafychs135/retinafit)** | 안경점용 실시간 AR 안경 피팅 — **브라우저 내 ONNX·MediaPipe 얼굴 분석** + Flutter 네이티브 AR | `Svelte` `ONNX Runtime` `MediaPipe` `Gemini` |
 | **[bluefox](https://github.com/ssafychs135/bluefox)** | GitHub PR 연동 AI 성능 최적화 파트너 — 부하테스트·시나리오 관리·SSE 실시간 알림 | `Spring Boot` `GitHub App` `SSE` |
-| **[jupasu](https://github.com/ssafychs135/jupasu)** | Text-to-SQL 에이전트로 취향을 질의하는 주류 추천 서비스 | `Spring Boot` `Text-to-SQL` `JavaScript` |
+| **[jupasu](https://github.com/ssafychs135/jupasu)** | 와인 소믈리에 AI 챗봇 — 음식 궁합·취향 기반 추천(pgvector) + 메뉴판 OCR 스캔 | `LangGraph` `pgvector` `PaddleOCR` `Spring Boot` |
 
 <sub>그 외 · [nemotron-trimode-benchmark](https://github.com/ssafychs135/nemotron-trimode-benchmark) — Nemotron Diffusion 3B의 3가지 추론 모드(AR·diffusion·self-speculation) 처리량 벤치마크 (RTX 5060 Ti)</sub>
 
