@@ -57,7 +57,6 @@
 | **[jupasu](https://github.com/ssafychs135/jupasu)** | 와인 소믈리에 AI 챗봇 — 음식 궁합·취향 기반 추천(pgvector) + 메뉴판 OCR 스캔<br>🙋 **내 기여**: AI 파트 (소믈리에 에이전트·추천·OCR) | `LangGraph` `pgvector` `PaddleOCR` `FastAPI` |
 | **[team9](https://github.com/ssafychs135/team9)** | iPhone 51종을 다루는 RAG 챗봇 — 문서 임베딩·검색·응답<br>🙋 **내 기여**: RAG·LLM 연동 파트 | `Django` `LangGraph` `ChromaDB` `Gemma` |
 | **[retinafit](https://github.com/ssafychs135/retinafit)** | 안경점용 실시간 AR 안경 피팅 — 브라우저 내 얼굴 분석 + Flutter 네이티브 AR<br>🙋 **내 기여**: 브라우저 내 AI 추론(ONNX·MediaPipe) | `Svelte` `ONNX Runtime` `MediaPipe` `Gemini` |
-| **[n8n-job-automation](https://github.com/ssafychs135/n8n-job-automation)** | 로컬 LLM(LM Studio·MLX) + n8n·Docker로 채용공고를 매일 자동 수집·요약. **비용 0원, 실제 매일 구동**<br>🙋 **내 기여**: 개인 프로젝트 · 전체 설계·구현 | `LM Studio` `n8n` `Docker` `Python` |
 | **[bluefox](https://github.com/ssafychs135/bluefox)** | GitHub PR 연동 AI 성능 최적화 파트너 — 부하테스트·시나리오 관리·SSE 실시간 알림<br>🙋 **내 기여**: 프론트엔드(FE) | `React` `TypeScript` `SSE` |
 
 ---
