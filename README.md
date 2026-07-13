@@ -1,6 +1,6 @@
 <h1 align="center">안녕하세요, 최형선입니다 👋</h1>
 <p align="center">
-  <b>LLM 에이전트 · RAG · 브라우저 AI 추론</b>으로 실제로 굴러가는 것을 만드는 <b>AI/LLM 엔지니어</b>
+  <b>LLM 에이전트와 RAG</b>로 AI 제품을 <b>설계·구현</b>하는 엔지니어
 </p>
 
 <p align="center">
