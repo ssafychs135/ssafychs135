@@ -59,6 +59,8 @@
 | **[retinafit](https://github.com/ssafychs135/retinafit)** | 안경점용 실시간 AR 안경 피팅 — 브라우저 내 얼굴 분석 + Flutter 네이티브 AR<br>🙋 **내 기여**: 브라우저 내 AI 추론(ONNX·MediaPipe) | `Svelte` `ONNX Runtime` `MediaPipe` `Gemini` |
 | **[bluefox](https://github.com/ssafychs135/bluefox)** | GitHub PR 연동 AI 성능 최적화 파트너 — 부하테스트·시나리오 관리·SSE 실시간 알림<br>🙋 **내 기여**: 프론트엔드(FE) | `React` `TypeScript` `SSE` |
 
+<sub>**기타** · [n8n-job-automation](https://github.com/ssafychs135/n8n-job-automation) — 로컬 LLM + n8n·Docker로 채용공고 수집·요약 자동화 (n8n 학습·경험용 개인 프로젝트)</sub>
+
 ---
 
 <p align="center"><i>SSAFY에서 팀 프로젝트로 실전 협업을, 개인 프로젝트로 깊이를 쌓고 있습니다.</i></p>
